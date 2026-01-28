@@ -1,5 +1,28 @@
 [
   {
+    "id": "20251005-200523-3cbf",
+    "title": "Monster White Ultra",
+    "commanders": [
+      "Monster White Ultra"
+    ],
+    "dateStart": "2025-10-05T18:05:23.000Z",
+    "dateEnd": "2025-10-05T20:03:55.000Z",
+    "dateLabel": "5.10.2025, 20:05:23 - 5.10.2025, 22:03:55",
+    "url": "https://VelrixGW2.github.io/Velrix/?report=20251005-200523-3cbf",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 27,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 35
+    }
+  },
+  {
     "id": "20251002-201153-rmyr",
     "title": "Monster White Ultra",
     "commanders": [
