@@ -1,0 +1,32 @@
+{
+  "siteTheme": {
+    "ui": "classic",
+    "paletteId": "Dark Pearl",
+    "kineticFont": "default"
+  },
+  "entries": [
+    {
+      "id": "20260301-200247-xuda",
+      "title": "Z X Rrr",
+      "commanders": [
+        "Z X Rrr"
+      ],
+      "dateStart": "2026-03-01T19:02:47.000Z",
+      "dateEnd": "2026-03-01T21:00:30.000Z",
+      "dateLabel": "1.3.2026, 20:02:47 - 1.3.2026, 22:00:30",
+      "url": "https://VelrixGW2.github.io/Velrix/?report=20260301-200247-xuda",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 25,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 38
+      }
+    }
+  ]
+}
